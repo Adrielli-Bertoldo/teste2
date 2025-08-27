@@ -19,15 +19,15 @@ A proposta é oferecer uma experiência simples, segura e intuitiva para acesso 
 ---
 
 📂 Estrutura do projeto  
-/  
-├── css/               # estilos principais  
-│   └── style.css  
-├── js/                # scripts de interação  
-│   └── script.js  
-├── img/               # imagens do projeto  
-│   ├── header.png     # logo principal  
-│   └── preview.png    # prévia para o README  
-└── index.html         # página de login 
+/
+├── css/ # estilos principais
+│ └── style.css
+├── js/ # scripts de interação
+│ └── script.js
+├── img/ # imagens do projeto
+│ ├── header.png # logo principal
+│ └── preview.png # prévia para o README
+└── index.html # página de login 
 ---
 
 ⚡ Como usar  
